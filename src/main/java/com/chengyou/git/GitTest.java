@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("Hox-fix commit 2");
         System.out.println("jjc-chengyou today foke");
         System.out.println("test ssh-git url");
+        System.out.println("test pull from github to local");
     }
 }
