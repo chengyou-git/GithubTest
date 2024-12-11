@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master push test2");
         System.out.println("Hox-fix commit 2");
         System.out.println("jjc-chengyou today foke");
+        System.out.println("test ssh-git url");
     }
 }
