@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Hox-fix write this");
         System.out.println("master push test");
         System.out.println("master push test2");
+        System.out.println("Hox-fix commit 2");
     }
 }
